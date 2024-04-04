@@ -1,10 +1,10 @@
-# Credit Risk Modeling 
+# Credit Risk Modeling
 
-Welcome to the Credit Risk Modeling repository! This repo shows how i have used my Risk managment course and compnined it with my passionate for data science by building a  credit risk modeling. This repo offers a unique opportunity to me in developing a valuable skill set in a niche yet highly sought-after area.
+Welcome to the Credit Risk Modeling repository! This repo showcases how I have utilized my Risk Management learning and combined it with my passion for data science by building a credit risk modeling. I have developed this class by class for easy understanding, catering to learners from beginner to expert levels. This repository offers a unique opportunity for me to develop a valuable skill set in a niche yet highly sought-after area.
 
 ## About the Course
 
-Credit risk modeling sits at the intersection of data science and fintech, making it an ideal training ground for those seeking to differentiate themselves in the industry like me. This report may be a comprehensive look at how credit risk models are built and applied in real-world scenarios.
+Credit risk modeling sits at the intersection of data science and fintech, making it an ideal training ground for those seeking to differentiate themselves in the industry like me. This report provides a comprehensive look at how credit risk models are built and applied in real-world scenarios.
 
 ## What You'll Find
 
